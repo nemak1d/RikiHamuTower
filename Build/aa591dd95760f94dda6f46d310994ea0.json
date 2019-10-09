@@ -1,0 +1,16 @@
+{
+"companyName": "nemak1d_sys",
+"productName": "RikiHamuTower",
+"productVersion": "0.9.0",
+"dataUrl": "63163b8d2cca1619a7f5ecac29f3af57.unityweb",
+"wasmCodeUrl": "67dca8fd5b9b872def110febd5cc9df6.unityweb",
+"wasmFrameworkUrl": "c64849f4e5530364c127c3b3630066d4.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
