@@ -1,0 +1,16 @@
+{
+"companyName": "nemak1d_sys",
+"productName": "りきはむちゃんをつみあげるだけ",
+"productVersion": "1.0.1",
+"dataUrl": "ef0403e31c7cb3959cd9ef8880eed668.unityweb",
+"wasmCodeUrl": "acbe42b9e771d25d7f2cbfcfad3395c1.unityweb",
+"wasmFrameworkUrl": "177f7aa89d37d2375664543b6871f83e.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
